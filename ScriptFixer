@@ -1,0 +1,9 @@
+if isfolder("Void Hub Settings Folder") then
+   delfolder("Void Hub Settings Folder")
+end
+if isfolder("Void Hub Key Folder") then
+   delfolder("Void Hub Key Folder")
+end
+if isfolder("Void Hub Saving Folder") then
+   delfolder("Void Hub Saving Folder")
+end
